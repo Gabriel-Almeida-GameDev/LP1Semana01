@@ -19,6 +19,11 @@ namespace VariousTypes
             Console.WriteLine(emoji1);
             Console.WriteLine(emoji2);
             Console.WriteLine(emoji3);
+
+            float var4 = 2315.982346f;
+            double var5 = 2.0e15;
+            Console.WriteLine(var4);
+            Console.WriteLine(var5);
         }
     }
 }
