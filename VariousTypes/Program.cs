@@ -24,6 +24,11 @@ namespace VariousTypes
             double var5 = 2.0e15;
             Console.WriteLine(var4);
             Console.WriteLine(var5);
+             
+            bool bowling1 = true;
+            bool bowling2 = 7 < -7;
+            Console.WriteLine(bowling1);
+            Console.WriteLine(bowling2);
         }
     }
 }
